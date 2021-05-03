@@ -11,7 +11,11 @@ export default function FirstPost() {
         <h1>👋 Hi, I'm Derek.</h1>
         <h2>
           I'm an Engineering Manager at{' '}
-          <a href="www.hudl.com" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://www.hudl.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Hudl
           </a>{' '}
           in London.
@@ -29,7 +33,11 @@ export default function FirstPost() {
         </p>
         <p>
           We're hiring -{' '}
-          <a href="www.hudl.com/jobs" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://www.hudl.com/jobs"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             join us
           </a>{' '}
           or{' '}
@@ -51,7 +59,7 @@ export default function FirstPost() {
           running on AWS, React written in TypeScript, GraphQL and MongoDB. That
           said, I{' '}
           <a
-            href="nested.substack.com/p/short-fat-engineers-are-undervalued"
+            href="https://nested.substack.com/p/short-fat-engineers-are-undervalued"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -70,7 +78,7 @@ export default function FirstPost() {
         <h2>
           Before that, I co-founded{' '}
           <a
-            href="www.facebook.com/ConciseResearchGroup/"
+            href="https://www.facebook.com/ConciseResearchGroup/"
             target="_blank"
             rel="noopener noreferrer"
           >

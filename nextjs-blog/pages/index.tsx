@@ -12,7 +12,11 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <p>
           Engineering Manager at{' '}
-          <a href="www.hudl.com" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://www.hudl.com"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Hudl
           </a>
           .
@@ -30,7 +34,7 @@ export default function Home() {
           </Link>
           . Find me on{' '}
           <a
-            href="github.com/dnordgren/"
+            href="https://github.com/dnordgren/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -38,7 +42,7 @@ export default function Home() {
           </a>
           ,{' '}
           <a
-            href="www.linkedin.com/in/dereknordgren/"
+            href="https://www.linkedin.com/in/dereknordgren/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -46,7 +50,7 @@ export default function Home() {
           </a>
           ,{' '}
           <a
-            href="twitter.com/dereknordgren/"
+            href="https://twitter.com/dereknordgren/"
             target="_blank"
             rel="noopener noreferrer"
           >
