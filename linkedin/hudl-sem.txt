@@ -1,1 +1,5 @@
-<empty>
+Lead a team of 5 Infrastructure Engineers to build and deliver infra-as-a-service to the rest of Hudl's development teams.
+
+As an Engineering Manager and "Capability Owner" for Hudl's cloud infrastructure, I work with our Product Director to establish the team's roadmap, identify new opportunities (like migrating our dozens of MongoDB clusters to AWS DocumentDB to save Hudl millions of $ over a multi-year span), and guide the team's technical decisions.
+
+As a manager, I coach, develop and serve each of my team in pursuit of rewarding career development at Hudl and beyond.
