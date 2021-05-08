@@ -27,9 +27,15 @@ export default function FirstPost() {
         </p>
         <p>
           Hudl's a cloud-native company. We're using infra-as-code (Terraform,
-          Packer), containers (ECS now - k8s soon) and other automation
-          (Lambdas, Python, Chef) to empower our development teams to move fast
-          and build great products on top of the latest and greatest from AWS.
+          Packer, Chef), containers (ECS, migrating to EKS) and other automation
+          (Lambdas, Python, AWS Systems Manager) to empower our development
+          teams to move fast and build great products on top of the latest and
+          greatest from AWS.
+
+          My team also works closely with our Security Engineers to manage IAM
+          access to our numerous AWS accounts, provision new accounts with
+          appropriate "guardrails" and monitor activity through CloudTrail,
+          Control Tower, CrowdStrike and other products.
         </p>
         <p>
           We're hiring -{' '}
@@ -55,9 +61,9 @@ export default function FirstPost() {
         <p>
           Before infrastructure, I was a senior full-stack software engineer. I
           enjoy designing software architectures and products for scalability
-          and performance. My preferred stack involves Docker-ized .NET Core
-          running on AWS, React written in TypeScript, GraphQL and MongoDB. That
-          said, I{' '}
+          and performance. I'm most familiar with a stack which involves
+          Docker-ized .NET Core running on AWS, React written in TypeScript,
+          GraphQL and MongoDB. That said, I{' '}
           <a
             href="https://nested.substack.com/p/short-fat-engineers-are-undervalued"
             target="_blank"
