@@ -1,0 +1,24 @@
+As a full-stack software engineer, I worked on:
+
+- AWS - S3, some EC2, RDS, SNS, SQS, Kinesis and more
+- .NET (Core) in Docker running in AWS ECS
+- React (TypeScript), Redux
+- GraphQL
+- MongoDB (DocumentDB), SQL (RDS - MSSQL and Postgres)
+- Elasticsearch, Elasticache (Redis), RabbitMQ
+
+I also have some experience with React Native development on iOS.
+
+A couple of my favorite projects at Hudl as a senior software engineer:
+
+User activity tracking and reporting platform. Backed by an AWS-powered big-data processing pipeline capable of handling 6 billion events per month.
+- iOS, Android and web clients instrumented with modules to track user activity on the Hudl platform
+- Tracking events validated via a Snowplow Analytics structured events schema (backed by AWS Kinesis); events aggregated into reportable format via AWS S3 and Glue ETL jobs
+- Persistence via AWS Aurora Postgres SQL database
+- Reporting data exposed via GraphQL API backed by .NET Core web application containerized in Docker running in AWS ECS
+- Visualizations via React 16 single-page web app, built in TypeScript.
+
+System rearchitecture of Hudl's video and data models.
+- Eliminate a legacy system integral to Hudl's video upload pipeline
+- Utilize advanced architecture patterns and migration techniques to safely migrate backend systems without downtime
+- Decoupling critical systems via message-based architecture powered by Amazon SQS and SNS
