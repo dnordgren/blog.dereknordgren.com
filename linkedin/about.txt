@@ -1,0 +1,30 @@
+I am a senior full-stack software engineer at Hudl. I design, build and maintain highly performant and scalable software solutions that help Hudl's coaches and athletes unlock peak performance. Hudl's tech stack includes:
+- AWS
+- .NET (Core) in Docker running in AWS ECS
+- React (TypeScript), Redux
+- GraphQL
+- MongoDB, SQL
+
+Beyond my role as a software engineer, I pride myself on being a "product" generalist. I'm energized by working with great, cross-functional teams to solve business and engineering challenges. I'm passionate about driving continuous improvement and bringing great products to market at high velocity with low risk.
+
+I also currently lead dev ops for Hudl's Elite business unit (servicing professional teams and clubs). I manage the dev ops efforts for several engineering teams to ensure Hudl's systems maintain high levels of availability, reliability and durability for our most demanding customers.
+
+A couple of my current and recent projects at Hudl:
+
+User activity tracking and reporting platform. Backed by an AWS-powered big-data processing pipeline capable of handling 6 billion events per month.
+- iOS, Android and web clients instrumented with modules to track user activity on the Hudl platform
+- Tracking events validated via a Snowplow Analytics structured events schema; events aggregated into reportable format via AWS Glue ETL jobs
+- Persistence via AWS Aurora Postgres SQL database
+- Reporting data exposed via GraphQL API backed by .NET Core web application containerized in Docker running in AWS ECS
+- Visualizations via React 16 single-page web app, built in TypeScript.
+
+System rearchitecture of Hudl's video and data models.
+- Eliminate a legacy system integral to Hudl's video upload pipeline
+- Utilize advanced architecture patterns and migration techniques to safely swap backend systems without downtime
+- Decoupling critical systems via message-based architecture powered by Amazon SQS and SNS
+
+--
+
+Before Hudl, I was the co-founder and Chief Technology Officer of a small start-up, Concise Research Group (CRG). I lead our product team in designing and building web-based surveying and reporting tools that help law enforcement departments build better relationships with the communities they serve.
+
+Our products applied the latest best practices in procedural justice research to enable law enforcements leaders to make data-driven process changes that save money, reduce use of force incidents and save civilian and officer lives. Our products were used by multiple law enforcement departments from the Midwest to the West Coast.
