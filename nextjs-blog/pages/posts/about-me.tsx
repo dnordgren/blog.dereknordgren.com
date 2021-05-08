@@ -31,7 +31,8 @@ export default function FirstPost() {
           (Lambdas, Python, AWS Systems Manager) to empower our development
           teams to move fast and build great products on top of the latest and
           greatest from AWS.
-
+        </p>
+        <p>
           My team also works closely with our Security Engineers to manage IAM
           access to our numerous AWS accounts, provision new accounts with
           appropriate "guardrails" and monitor activity through CloudTrail,
